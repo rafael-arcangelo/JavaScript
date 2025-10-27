@@ -14,3 +14,7 @@
 ### Desafio 02
 - Incrementar o Desafio 01 com uma escolha de tipo de combustível
 - Implementado função de consumo e eficiência para cada tipo de combustível
+
+## [1.3.0] 2025-10-26
+### Desafio 03
+- Solucionado o Desafio 03 com as informações disponíveis
