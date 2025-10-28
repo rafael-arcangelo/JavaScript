@@ -20,4 +20,5 @@
 - Solucionado o Desafio 03 com as informações disponíveis
 
 ## [1.4.0] 2025-10-27
+### Desafio 04
 - Solucionando o Desafio 04 do curso
