@@ -22,3 +22,8 @@
 ## [1.4.0] 2025-10-27
 ### Desafio 04
 - Solucionando o Desafio 04 do curso
+
+## [1.5.0] 2025-10-29
+- Solucionando o Desafio 05 do curso
+- Solucionando o Desafio 06 do curso
+- Solucionando o Desafio 07 do curso
